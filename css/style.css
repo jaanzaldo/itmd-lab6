@@ -60,6 +60,6 @@
 	text-decoration:none;
 }
 
-#sidebar ul li:hover {
+#sidebar ul li a:hover {
 	background-color:#000;
 }
