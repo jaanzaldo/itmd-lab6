@@ -3,3 +3,23 @@
 	overflow:hidden;
 }
 
+#main-navbar ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position:relative;
+	left:50%;
+}
+
+#main-navbar ul li {
+	float:left;
+	position:relative;
+	right:50%;
+	display:block;
+}
+#main-navbar ul li a {
+	display:block;
+	padding:10px 20px;
+	color:#fff;
+	text-decoration:none;
+}
