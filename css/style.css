@@ -9,6 +9,7 @@
 	padding:0;
 	position:relative;
 	left:50%;
+	float:left;
 }
 
 #main-navbar ul li {
@@ -26,4 +27,10 @@
 
 #main-navbar ul li a:hover {
 	background-color:#000;
+}
+
+#navbar-container {
+	float:left;
+	width:100%;
+	position:relative;
 }
