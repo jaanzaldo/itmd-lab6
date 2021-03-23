@@ -34,3 +34,16 @@
 	width:100%;
 	position:relative;
 }
+
+#onpage {
+	text-decoration:underline overline;
+}
+
+#sidebar {
+	width:20%;
+	height:100%;
+	background-color:red;
+	right:0%;
+	position:fixed;
+}
+
